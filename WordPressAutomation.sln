@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SophiaFioriAutomation", "WordPressAutomation\SophiaFioriAutomation.csproj", "{6C3E166F-CD1A-42E1-A958-BEDDDB75D776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SophiaFioriTests", "WordPressTests\SophiaFioriTests.csproj", "{6124FB9D-4CF5-415D-B23B-8B10D3C402BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C3E166F-CD1A-42E1-A958-BEDDDB75D776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3E166F-CD1A-42E1-A958-BEDDDB75D776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3E166F-CD1A-42E1-A958-BEDDDB75D776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3E166F-CD1A-42E1-A958-BEDDDB75D776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6124FB9D-4CF5-415D-B23B-8B10D3C402BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6124FB9D-4CF5-415D-B23B-8B10D3C402BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6124FB9D-4CF5-415D-B23B-8B10D3C402BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6124FB9D-4CF5-415D-B23B-8B10D3C402BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
